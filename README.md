@@ -1,2 +1,1 @@
-# bounceOffAlgorithm
-Algorithm to bounce off two objects
+# PRESS SPACE TO RELEASE BULLETS
