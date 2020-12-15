@@ -1,1 +1,2 @@
-#PRESS SPACE TO RELEASE ALL THREE BULLETS
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
